@@ -1,0 +1,11 @@
+main:
+  - title: Issue 
+    url: /issue/
+  - title: Evidence
+    url: /evidence/
+  - title: Implications
+    url: /implications/
+  - title: Works Cited
+    url: /works-cited/
+  - title: About
+    url: /about/
