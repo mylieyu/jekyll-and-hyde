@@ -13,6 +13,6 @@ To navigate through the website, click on the links on the top right corner. Tho
 
 To navigate back to the home page, click on the link on the top left corner which says "Dr. Jekyll and Mr. Hyde Activity Matrix." 
 
-On the home page, you can easily navigate to the sources I used, by clicking on the links near the squares. 
+On the home page, you can easily navigate to the sources I used, by clicking "read more" underneath the icons. 
 
 Softwares used to make website: VSCode, GitHub, Ruby, Jekyll	
